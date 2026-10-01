@@ -18,9 +18,9 @@ Opprettet containeren "logistikk-data" og lastet opp en CSV-fil med simulerte or
 
 ### 3. Koblet til Power BI og lagde dashboard
 Koblet Power BI Desktop direkte mot Azure Blob Storage med tilgangsnøkkel. Ryddet litt i dataene i Power Query og bygde tre enkle visualiseringer:
-  **Total fraktkostnad** – Rask sjekk på hvor mye penger som går med til frakt.
-  **Kvantum per kategori** – Oversikt over mengde råvarer vs. kjemikalier.
-  **Leveringsstatus** – Smultringdiagram som viser andel leverte vs. forsinkede ordrer.
+  **Total fraktkostnad**  Rask sjekk på hvor mye penger som går med til frakt.
+  **Kvantum per kategori**  Oversikt over mengde råvarer vs. kjemikalier.
+  **Leveringsstatus**  Smultringdiagram som viser andel leverte vs. forsinkede ordrer.
 
 ![Power BI Dashboard](bilde_steg3.png)
 
