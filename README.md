@@ -80,6 +80,4 @@ Dataene gjelder Brasil i perioden 2016 til 2018. Årfilteret bruker bestillingsd
 
 - **Microsoft Azure** for lagring av CSV-filene i Blob Storage.
 - **Power BI Desktop** for rapporten.
-- **Power Query** for datatyper og kontroll av dataene.
-- **DAX** for beregningene i kortene, diagrammet og tabellene.
 - **GitHub** for dokumentasjon.
